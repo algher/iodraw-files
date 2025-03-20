@@ -63,8 +63,8 @@
         <mxCell id="tK2j7EFVkwnGpYIiXRMQ-37" value="算法结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tK2j7EFVkwnGpYIiXRMQ-40" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="tK2j7EFVkwnGpYIiXRMQ-40" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
