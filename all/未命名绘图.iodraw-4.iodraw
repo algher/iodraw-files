@@ -106,7 +106,7 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-20" value="收&lt;div&gt;敛&lt;/div&gt;&lt;div&gt;性&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="730" y="240" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-21" value="稳定性测试" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-21" value="稳&lt;div&gt;定&lt;/div&gt;&lt;div&gt;性&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;&lt;div&gt;试&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="787" y="240" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-22" value="时间复杂度比较" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
