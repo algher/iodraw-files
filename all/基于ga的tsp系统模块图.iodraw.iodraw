@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-5" value="算法选择" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-6" target="ElswtB4_z3APM7qDD6WS-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-6" value="路径与对比" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="770" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-7" target="ElswtB4_z3APM7qDD6WS-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-7" value="结果分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="1020" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-9" value="调整迭代次数、交叉率、变异率" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="130" y="240" width="40" height="170" as="geometry" />
@@ -74,31 +74,31 @@
           <mxGeometry x="190" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-12" value="运行GA" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="280" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="480" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-13" value="运行GA-ACO" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="340" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="540" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-14" value="运行GA-SA" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="400" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="600" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-15" value="运行GA-贪婪" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="460" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="660" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-16" value="实时显示当前最优路径&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="580" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="720" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-17" value="&lt;div&gt;绘制适应度收敛曲线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="670" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="810" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-18" value="统计路径长度和运行时间" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="760" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="900" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-20" value="对比收敛速度与解的质量" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="880" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="1020" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-22" value="显示计算耗时" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="960" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="1100" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f8gE2KDoCXcS4XAe_A4r-1" value="调整迭代次数、交叉率、变异率" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="140" y="250" width="40" height="170" as="geometry" />
+          <mxGeometry x="120" y="490" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
