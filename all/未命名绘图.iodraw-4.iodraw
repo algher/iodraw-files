@@ -7,8 +7,8 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="ElswtB4_z3APM7qDD6WS-1" target="ElswtB4_z3APM7qDD6WS-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="150" />
-              <mxPoint x="300" y="150" />
+              <mxPoint x="460" y="160" />
+              <mxPoint x="300" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -16,7 +16,7 @@
           <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
