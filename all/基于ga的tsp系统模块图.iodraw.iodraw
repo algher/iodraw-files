@@ -19,6 +19,12 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-1" value="基于GA的TSP研究系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="f8gE2KDoCXcS4XAe_A4r-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ElswtB4_z3APM7qDD6WS-4" target="ElswtB4_z3APM7qDD6WS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f8gE2KDoCXcS4XAe_A4r-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ElswtB4_z3APM7qDD6WS-4" target="f8gE2KDoCXcS4XAe_A4r-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-4" value="算法设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
         </mxCell>
