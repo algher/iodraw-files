@@ -82,10 +82,10 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-12" value="运行GA" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="250" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-13" value="自&lt;div&gt;适&lt;/div&gt;&lt;div&gt;应&lt;/div&gt;&lt;div&gt;变&lt;/div&gt;&lt;div&gt;异&lt;/div&gt;&lt;div&gt;率&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-13" value="GA-ACO" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="310" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-14" value="2-opt&lt;div&gt;混&lt;/div&gt;&lt;div&gt;合&lt;/div&gt;&lt;div&gt;局&lt;/div&gt;&lt;div&gt;部&lt;/div&gt;&lt;div&gt;优&lt;/div&gt;&lt;div&gt;化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-14" value="GA-SA" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="370" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-15" value="部&lt;div&gt;分&lt;/div&gt;&lt;div&gt;匹&lt;/div&gt;&lt;div&gt;配&lt;/div&gt;&lt;div&gt;交&lt;/div&gt;&lt;div&gt;叉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
