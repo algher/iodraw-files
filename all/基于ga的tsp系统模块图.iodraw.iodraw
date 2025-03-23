@@ -64,7 +64,7 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-7" target="ElswtB4_z3APM7qDD6WS-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-7" value="实验与分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-7" value="结果分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="747" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
