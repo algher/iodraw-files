@@ -19,26 +19,8 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-1" value="基于GA的TSP研究系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="80" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-4" target="ElswtB4_z3APM7qDD6WS-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-4" target="ElswtB4_z3APM7qDD6WS-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="200" />
-              <mxPoint x="150" y="220" />
-              <mxPoint x="210" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f8gE2KDoCXcS4XAe_A4r-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ElswtB4_z3APM7qDD6WS-4" target="f8gE2KDoCXcS4XAe_A4r-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f8gE2KDoCXcS4XAe_A4r-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ElswtB4_z3APM7qDD6WS-4" target="f8gE2KDoCXcS4XAe_A4r-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-4" value="算法设置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="150" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-5" target="ElswtB4_z3APM7qDD6WS-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -111,16 +93,6 @@
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-22" value="显示计算耗时" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1100" y="240" width="40" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="150" y="200" />
-              <mxPoint x="150" y="220" />
-              <mxPoint x="90" y="220" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="f8gE2KDoCXcS4XAe_A4r-1" value="调&lt;div&gt;整&lt;div&gt;交&lt;/div&gt;&lt;div&gt;叉&lt;/div&gt;&lt;div&gt;率&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="40" height="170" as="geometry" />
