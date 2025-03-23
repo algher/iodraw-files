@@ -82,7 +82,7 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-10" value="导&lt;div&gt;入&lt;/div&gt;&lt;div&gt;城&lt;/div&gt;&lt;div&gt;市&lt;/div&gt;&lt;div&gt;坐&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="10" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-11" value="调整种群规模、" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-11" value="调&lt;div&gt;整&lt;/div&gt;&lt;div&gt;种&lt;/div&gt;&lt;div&gt;群&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="190" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-12" value="运行GA" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8gE2KDoCXcS4XAe_A4r-1" value="调整交叉率" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="f8gE2KDoCXcS4XAe_A4r-1" value="调&lt;div&gt;整&lt;div&gt;交&lt;/div&gt;&lt;div&gt;叉&lt;/div&gt;&lt;div&gt;率&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="f8gE2KDoCXcS4XAe_A4r-2" value="调整变异率" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
