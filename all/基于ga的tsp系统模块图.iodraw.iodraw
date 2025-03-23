@@ -91,13 +91,13 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-13" value="运&lt;div&gt;行&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A&lt;/span&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;C&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;O&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="540" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-14" value="运&lt;div&gt;行&lt;/div&gt;&lt;div&gt;GA&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;SA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-14" value="运&lt;div&gt;行&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="600" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-15" value="运&lt;div&gt;行&lt;div&gt;G&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;-&lt;/div&gt;&lt;div&gt;贪&lt;/div&gt;&lt;div&gt;婪&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="660" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-16" value="实时显示当前最优路径&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-16" value="实&lt;div&gt;时&lt;/div&gt;&lt;div&gt;显&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;&lt;div&gt;当&lt;/div&gt;&lt;div&gt;前&lt;/div&gt;&lt;div&gt;最&lt;/div&gt;&lt;div&gt;优&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;径&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="720" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-17" value="&lt;div&gt;绘制适应度收敛曲线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
