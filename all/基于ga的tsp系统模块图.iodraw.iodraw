@@ -94,10 +94,10 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-16" value="&lt;li class=&quot;&quot; data-end=&quot;153&quot; data-start=&quot;141&quot;&gt;&lt;p class=&quot;&quot; data-end=&quot;153&quot; data-start=&quot;143&quot;&gt;实时显示当前最优路径&lt;/p&gt;&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;&quot; data-end=&quot;168&quot; data-start=&quot;157&quot;&gt;&lt;br/&gt;&lt;p class=&quot;&quot; data-end=&quot;168&quot; data-start=&quot;159&quot;&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="490" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-17" value="&lt;br&gt;并&lt;div&gt;行&lt;/div&gt;&lt;div&gt;运&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;多&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;&lt;div&gt;法&lt;/div&gt;&lt;div&gt;对&lt;/div&gt;&lt;div&gt;比&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-17" value="&lt;div&gt;绘制适应度收敛曲线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="550" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-18" value="路&lt;div&gt;径&lt;/div&gt;&lt;div&gt;绘&lt;/div&gt;&lt;div&gt;制&lt;/div&gt;&lt;div&gt;与&lt;/div&gt;&lt;div&gt;适&lt;/div&gt;&lt;div&gt;应&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;曲&lt;/div&gt;&lt;div&gt;线&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="ElswtB4_z3APM7qDD6WS-18" value="统计路径长度和运行时间" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="610" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-19" value="统&lt;div&gt;计&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;径&lt;/div&gt;&lt;div&gt;长&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;和&lt;/div&gt;&lt;div&gt;运&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;时&lt;/div&gt;&lt;div&gt;间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
