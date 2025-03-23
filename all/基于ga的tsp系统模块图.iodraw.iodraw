@@ -52,9 +52,6 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-6" target="ElswtB4_z3APM7qDD6WS-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ElswtB4_z3APM7qDD6WS-6" target="ElswtB4_z3APM7qDD6WS-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-6" value="路径与对比" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -96,9 +93,6 @@
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-18" value="统计路径长度和运行时间" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="700" y="240" width="40" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="ElswtB4_z3APM7qDD6WS-19" value="统&lt;div&gt;计&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;径&lt;/div&gt;&lt;div&gt;长&lt;/div&gt;&lt;div&gt;度&lt;/div&gt;&lt;div&gt;和&lt;/div&gt;&lt;div&gt;运&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;时&lt;/div&gt;&lt;div&gt;间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="760" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-20" value="对比收敛速度与解的质量" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="880" y="240" width="40" height="170" as="geometry" />
