@@ -76,9 +76,6 @@
         <mxCell id="ElswtB4_z3APM7qDD6WS-10" value="生&lt;div&gt;成&lt;br&gt;&lt;div&gt;城&lt;/div&gt;&lt;div&gt;市&lt;/div&gt;&lt;div&gt;坐&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="40" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="EU_pjUR_3UQosY71QT6g-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ElswtB4_z3APM7qDD6WS-11" target="ElswtB4_z3APM7qDD6WS-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-11" value="调&lt;div&gt;整&lt;/div&gt;&lt;div&gt;种&lt;/div&gt;&lt;div&gt;群&lt;/div&gt;&lt;div&gt;规&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="220" y="240" width="40" height="170" as="geometry" />
         </mxCell>
