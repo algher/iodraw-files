@@ -115,6 +115,9 @@
         <mxCell id="f8gE2KDoCXcS4XAe_A4r-6" value="精&lt;div&gt;英&lt;/div&gt;&lt;div&gt;保&lt;/div&gt;&lt;div&gt;留&lt;/div&gt;&lt;div&gt;策&lt;/div&gt;&lt;div&gt;略&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="100" y="240" width="40" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="EU_pjUR_3UQosY71QT6g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EU_pjUR_3UQosY71QT6g-2" target="ElswtB4_z3APM7qDD6WS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EU_pjUR_3UQosY71QT6g-2" value="贪&lt;div&gt;婪&lt;/div&gt;&lt;div&gt;初&lt;/div&gt;&lt;div&gt;始&lt;/div&gt;&lt;div&gt;化&lt;/div&gt;&lt;div&gt;策&lt;/div&gt;&lt;div&gt;略&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="540" y="490" width="40" height="170" as="geometry" />
         </mxCell>
