@@ -80,10 +80,10 @@
           <mxGeometry x="220" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-12" value="运&lt;div&gt;行&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="470" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="490" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-14" value="运&lt;div&gt;行&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;&lt;div&gt;|&lt;/div&gt;&lt;div&gt;S&lt;/div&gt;&lt;div&gt;A&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="590" y="240" width="40" height="170" as="geometry" />
+          <mxGeometry x="570" y="240" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ElswtB4_z3APM7qDD6WS-16" value="实&lt;div&gt;时&lt;/div&gt;&lt;div&gt;显&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;&lt;div&gt;当&lt;/div&gt;&lt;div&gt;前&lt;/div&gt;&lt;div&gt;最&lt;/div&gt;&lt;div&gt;优&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;径&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="690" y="240" width="40" height="170" as="geometry" />
