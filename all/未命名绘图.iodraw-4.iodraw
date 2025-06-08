@@ -25,7 +25,7 @@
         <mxCell id="d6EPAqTVwBHP0_mPXQ09-3" value="按适应值选当前最优基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d6EPAqTVwBHP0_mPXQ09-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d6EPAqTVwBHP0_mPXQ09-4" value="输出结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d6EPAqTVwBHP0_mPXQ09-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d6EPAqTVwBHP0_mPXQ09-5" target="d6EPAqTVwBHP0_mPXQ09-10">
